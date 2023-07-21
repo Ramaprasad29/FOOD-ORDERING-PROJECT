@@ -1,2 +1,2 @@
 # FOOD-ORDERING-PROJECT
-I have implemented my project using HTML,CSS.
+I have implemented my project using HTML,CSS and Javascript
